@@ -1,0 +1,22 @@
+{
+  "name": "plmjuytbms",
+  "version": "0.0.1",
+  "description": "plmjuytbms.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.1",
+    "mongoose": "^8.5.2",
+    "eris": "^0.17.1",
+    "express": "*",
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "*",
+    "random-token": "^0.0.6",
+    "socket.io-client": "^4.7.4"
+  },
+  "license": "MIT",
+  "keywords": [
+  ]
+}
